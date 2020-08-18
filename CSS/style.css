@@ -1,0 +1,24 @@
+.navbar-brand {
+  color: #333;
+}
+.navbar-toggler {
+  color: #06c;
+}
+body {
+  background: linear-gradient(#c9ffbf, #ffafbd);
+}
+.nav-link {
+  color: #333;
+  transition: all 0.5s ease-in;
+}
+.nav-link:hover {
+  color: #06c;
+}
+
+.btn-hover {
+  color: #06c;
+}
+
+.blue {
+  color: #06c;
+}
